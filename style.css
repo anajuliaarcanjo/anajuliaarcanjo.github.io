@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: Arian, sans-serif;
+    background-color: rgb(194, 194, 194)
+}
+
+.inicio {
+    display: flex;
+    height: 100vh;
+}
+
+.foto {
+    flex: 1;
+    background-color: rgb(122, 160, 190);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
