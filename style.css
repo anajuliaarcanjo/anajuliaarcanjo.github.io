@@ -16,3 +16,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.foto img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
