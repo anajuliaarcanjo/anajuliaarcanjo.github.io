@@ -30,3 +30,15 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.infos h1 {
+    font-size: 48px;
+    margin: 0;
+    color: rgb(115, 136, 155);
+}
+
+.infos h2 {
+    font-size: 24px;
+    color: rgb(141, 166, 189);
+    margin-top: 10px;
+}
